@@ -1,7 +1,7 @@
 # Task 1 - Robot Walking Motion
 
 ## Write a Servo Motor Operation Algorithm for Robot Walking Motion
-Step-by-Step Guide: - 
+### Step-by-Step Guide: - 
 
 ## - Gather Components:
 Get 6 Servo Motors, an Arduino Uno, a Breadboard, and 6 Potentiometers.
