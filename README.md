@@ -27,9 +27,10 @@ Get 6 Servo Motors, an Arduino Uno, a Breadboard, and 6 Potentiometers.
 ### - Arduino Uno and Breadboard Connections:
 1.	Connect the 5V pin on the Arduino to the power rail on the breadboard.
 2.	Connect the GND pin on the Arduino to the ground rail on the breadboard.
-### - Write the Code on Arduino IDE and paste it in the Code section of tinkercad (or directly write it in the Code section on tinkercad)
+### - Write the Code on Arduino IDE and paste it in the Code section of Tinkercad (or directly write it in the Code section on Tinkercad)
 
 ### - Test for Accuracy:
 Regularly testing and refining the algorithm based on the observations made on the motion of the servos, and the execution of the code will help identify and correct any issues with either the code or the servos, ensuring the robot walks effectively.
+
 ![image](https://github.com/Ghalastic/Robot-Walking-Motion/assets/173709501/84e0dcd4-0fad-42df-a428-c03124eee2c2)
 
