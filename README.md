@@ -32,5 +32,9 @@ Get 6 Servo Motors, an Arduino Uno, a Breadboard, and 6 Potentiometers.
 ### - Test for Accuracy:
 Regularly testing and refining the algorithm based on the observations made on the motion of the servos, and the execution of the code will help identify and correct any issues with either the code or the servos, ensuring the robot walks effectively.
 
+### Link
+
+[Tinkercad Servo Motor Electronic Circuit](https://www.tinkercad.com/things/gvGrAR9GeyW-6-servo-motors-leg-joint-walking-motion-for-a-robot)
+
 ![image](https://github.com/Ghalastic/Robot-Walking-Motion/assets/173709501/84e0dcd4-0fad-42df-a428-c03124eee2c2)
 
